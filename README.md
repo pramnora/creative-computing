@@ -10,4 +10,23 @@ Started a new class at WMCollege, called: **ALS/Additional Learning Support: Cre
 
 - https://www.wmcolledge.ac.uk
 
-The class had already begun...but, I was allowed to join in 1 week late...; this is the 2nd week. Altogether it is a 10 week long course.
+The class had already begun -but, I was allowed to join in 1 week late-; and, this is the 2nd week. Altogether it is a 10 week long course.
+
+-----
+
+220124
+
+We were introduced to using Adobe Illustrator 'vector based' software...; and, we drew both straight lines/and, too, circular.
+
+I created a web page...to test if it was possible to save the pictures/and, then, display it inside of a web page; the answer is, affirmative.
+
+We also made a project: Choose a country/city, and, select 2 famous landmarks. I selected: London, UK/and, The Bullet/Tate Gallery.   
+Downloaded 5 internet photos related to each landmark theme...; meaning, in all I downloaded 10 photos, altogether.
+
+Afterwards, we were told to shut off the computer...; and, fill in our ILP/Individual Learning Plan.
+
+That was it, class finshed.
+
+----
+
+Next, I went downstairs to visit the comnputer room...where I continued studying.
