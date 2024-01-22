@@ -44,11 +44,12 @@ After class, I went downstairs to visit the computer room...where I continued st
 
 What I learned was...  
 
-Abobe Illustrators files can be saved using multiple different formats, including:-
+Abobe Illustrator files can be saved using multiple different formats, including:-
 
 -- [.ai] The native Adobe Illustrator format file (this means you can open it/and, continue editing that same file)  
 -- [.pdf] Adobe portable document format file  
 -- [.svg]/ Scaleable Vector file
+-- and, more...  
   
 
 ----
