@@ -16,7 +16,7 @@ The class had already begun -but, I was allowed to join in 1 week late-; and, th
 
 220124
 
-We were introduced to using Adobe Illustrator 'vector based' software...; and, we drew both straight lines/and, too, circular...by empoy8ing the 'pen tool'.  
+We were introduced to using Adobe Illustrator 'vector based' software...; and, we drew both straight lines/and, too, circular...by employing the 'pen tool'.   
 We also filled the shapes we created in with colours.  
 
 I created a web page...to test if it was possible to save the .svg code pictures/and, then, display it inside of a web page; the answer is, affirmative.    
