@@ -35,7 +35,21 @@ Afterwards, we were told to shut off the computer...; and, fill in our ILP/Indiv
 
 That was it, class finshed.
 
-(Next, I went downstairs to visit the computer room...where I continued studying. The computers downstairs also have Adobe Illustrator software available to continue working with...)
+-----
+
+Using Adobe Illustsrator: My own experiments
+
+After class, I went downstairs to visit the computer room...where I continued studying.   
+-(**NOTE**: The computers downstairs also have Adobe Illustrator software available to continue working on.)-  
+
+What I learned was...  
+
+Abobe Illustrators files can be saved using multiple different formats, including:-
+
+-- [.ai] The native Adobe Illustrator format file (this means you can open it/and, continue editing that same file)  
+-- [.pdf] Adobe portable document format file  
+-- [.svg]/ Scaleable Vector file
+  
 
 ----
 
