@@ -37,7 +37,7 @@ That was it, class finshed.
 
 -----
 
-Using Adobe Illustsrator: My own experiments
+Using Adobe Illustrator: My own experiments
 
 After class, I went downstairs to visit the computer room...where I continued studying.   
 -(**NOTE**: The computers downstairs also have Adobe Illustrator software available to continue working on.)-  
