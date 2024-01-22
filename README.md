@@ -9,6 +9,8 @@ Last updated: *22nd Jan 2024, 12:41 PM GMT*
 
 -----
 
+## Introduction
+
 Started a new class at WMCollege, called: **ALS/Additional Learning Support: Creative Computing**.
 
 - https://www.wmcollege.ac.uk  
@@ -18,7 +20,7 @@ The class had already begun -but, I was allowed to join in 1 week late-; and, th
 
 -----
 
-220124
+## 220124 My first class
 
 We were introduced to using Adobe Illustrator 'vector based' software...; and, we drew both straight lines/and, too, circular...by employing the 'pen tool'.   
 We also filled the shapes we created in with colours.  
