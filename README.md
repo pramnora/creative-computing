@@ -48,7 +48,7 @@ Abobe Illustrator files can be saved using multiple different formats, including
 
 -- [.ai] The native Adobe Illustrator format file (this means you can open it/and, continue editing that same file)  
 -- [.pdf] Adobe portable document format file  
--- [.svg]/ Scaleable Vector file
+-- [.svg]/ Scaleable Vector file  
 -- and, more...  
   
 
