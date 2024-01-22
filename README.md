@@ -31,4 +31,4 @@ That was it, class finshed.
 
 ----
 
-Next, I went downstairs to visit the comnputer room...where I continued studying.
+Next, I went downstairs to visit the computer room...where I continued studying.
