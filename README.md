@@ -8,7 +8,7 @@ Last updated: *22nd Jan 2024, 12:41 PM GMT*
 
 Started a new class at WMCollege, called: **ALS/Additional Learning Support: Creative Computing**.
 
-- https://www.wmcolledge.ac.uk
+- https://www.wmcollege.ac.uk
 
 The class had already begun -but, I was allowed to join in 1 week late-; and, this is the 2nd week. Altogether it is a 10 week long course.
 
@@ -29,6 +29,7 @@ Afterwards, we were told to shut off the computer...; and, fill in our ILP/Indiv
 
 That was it, class finshed.
 
+(Next, I went downstairs to visit the computer room...where I continued studying. The computers downstairs also have Adobe Illustrator software available to continue working with...)
+
 ----
 
-Next, I went downstairs to visit the computer room...where I continued studying.
