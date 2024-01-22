@@ -40,17 +40,16 @@ That was it, class finshed.
 ## Using Adobe Illustrator: My own experiments
 
 After class, I went downstairs to visit the computer room...where I continued studying.   
--(**NOTE**: The computers downstairs also have Adobe Illustrator software available to continue working on.)-  
+-(**NOTE**: The computers downstairs also have Adobe Illustrator software available to continue working on.)-   
 
-What I learned was...  
-
-Abobe Illustrator files can be saved using multiple different formats, including:-
+I discovered that Abobe Illustrator files can be saved using multiple different formats, including:-
 
 -- [.ai] The native Adobe Illustrator format file (this means you can open it/and, continue editing that same file)  
 -- [.pdf] Adobe portable document format file  
 -- [.svg]/ Scaleable Vector file  
 -- and, more...  
   
+Too, I wanted to play around at learning to use Adobe Illustrator Menus/tools...find out what they do/and, also, how they do it...?  
 
 ----
 
