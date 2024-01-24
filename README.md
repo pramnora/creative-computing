@@ -14,9 +14,10 @@ Last updated: *22nd Jan 2024, 12:41 PM GMT*
 Started a new class at WMCollege, called: **ALS/Additional Learning Support: Creative Computing**.
 
 - https://www.wmcollege.ac.uk  
-- https://www.wmcollege.ac.uk/courses/creative-computing/  
+- https://www.wmcollege.ac.uk/courses/creative-computing/
 
-The class had already begun -but, I was allowed to join in 1 week late-; and, this is the 2nd week. Altogether it is a 10 week long course.
+The class had already begun -but, I was allowed to join in 1 week late-; and, this is the 2nd week.   
+Altogether it is a 10 week long course/Room 513/Teacher: .
 
 -----
 
