@@ -11,7 +11,9 @@ Last updated: *22nd Jan 2024, 12:41 PM GMT*
 
 ## Introduction
 
-Started a new class at WMCollege, called: **ALS/Additional Learning Support: Creative Computing**.
+Started a new class at WMCollege, called:    
+**ALS/Additional Learning Support: Creative Computing**    
+08/01/2024 (Course Code: SUPE0111BX)  
 
 - https://www.wmcollege.ac.uk  
 - https://www.wmcollege.ac.uk/courses/creative-computing/
