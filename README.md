@@ -85,4 +85,7 @@ How to Make 3D Distorted Graffiti Bubble Text in Illustrator
 - https://www.youtube.com/watch?v=uDidXWIf2Fk
 
 Become An Adobe Illustrator Master With These Tips (Must Know)  
-- https://www.youtube.com/watch?v=I5SJyDi1X5U  
+- https://www.youtube.com/watch?v=I5SJyDi1X5U
+
+7 Illustrator Tips I wish I knew 4 Years ago!  
+- https://www.youtube.com/watch?v=VDfUyVSV8Qg  
