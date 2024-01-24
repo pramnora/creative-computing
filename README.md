@@ -62,3 +62,15 @@ Adobe Illustrator for Beginners: Get Started in 10 Minutes
 
 EVERY Adobe Illustrator Tool EXPLAINED (in Under 20 Minutes)  
 - https://www.youtube.com/watch?v=iQWTSupSrko&t=960s  
+
+How to Use the Pen Tool in Adobe Illustrator  
+- https://www.youtube.com/watch?v=Rk-JGsriJ4o
+
+Illustrator Shortcuts You Must Know  
+- https://www.youtube.com/watch?v=2YIW0HzM-PA   
+
+Every tool in Adobe Illustrator explained in detail as well as how to use them in design.  
+- https://www.youtube.com/watch?v=ngh4llCVQ_8
+
+50 things you MUST KNOW in Illustrator  
+- https://www.youtube.com/watch?v=lwtUHg0_4ak  
