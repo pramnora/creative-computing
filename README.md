@@ -79,4 +79,10 @@ Adobe Illustrator Crash Course 2023 (for complete beginners)
 - https://www.youtube.com/watch?v=n_-ygXZUq3U  
 
 How To Use 3D in Illustrator: EVERYTHING You Need to Know  
-- https://www.youtube.com/watch?v=Wg_bXC9lXGU  
+- https://www.youtube.com/watch?v=Wg_bXC9lXGU
+
+How to Make 3D Distorted Graffiti Bubble Text in Illustrator   
+- https://www.youtube.com/watch?v=uDidXWIf2Fk
+
+Become An Adobe Illustrator Master With These Tips (Must Know)  
+- https://www.youtube.com/watch?v=I5SJyDi1X5U  
