@@ -53,3 +53,12 @@ Too, I wanted to play around at learning to use Adobe Illustrator Menus/tools...
 
 ----
 
+## Links...
+
+### You Tube
+
+Adobe Illustrator for Beginners: Get Started in 10 Minutes   
+- https://www.youtube.com/watch?v=3NBKRywEbNs  
+
+EVERY Adobe Illustrator Tool EXPLAINED (in Under 20 Minutes)  
+- https://www.youtube.com/watch?v=iQWTSupSrko&t=960s  
