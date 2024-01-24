@@ -78,3 +78,5 @@ Every tool in Adobe Illustrator explained in detail as well as how to use them i
 Adobe Illustrator Crash Course 2023 (for complete beginners)  
 - https://www.youtube.com/watch?v=n_-ygXZUq3U  
 
+How To Use 3D in Illustrator: EVERYTHING You Need to Know  
+- https://www.youtube.com/watch?v=Wg_bXC9lXGU  
