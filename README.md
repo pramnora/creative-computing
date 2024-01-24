@@ -74,3 +74,7 @@ Every tool in Adobe Illustrator explained in detail as well as how to use them i
 
 50 things you MUST KNOW in Illustrator  
 - https://www.youtube.com/watch?v=lwtUHg0_4ak  
+
+Adobe Illustrator Crash Course 2023 (for complete beginners)  
+- https://www.youtube.com/watch?v=n_-ygXZUq3U  
+
